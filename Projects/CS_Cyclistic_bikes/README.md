@@ -12,6 +12,14 @@ The objective is to analyze Cyclistic's historical bike-share trip data to under
 Rather than focusing only on descriptive statistics, this project follows a complete analytics workflow—from business understanding and data preparation to visualization, dashboard development, and strategic recommendations.
 
 ---
+## Project Snapshot
+| Metric                |                                                             Result |
+| --------------------- | -----------------------------------------------------------------: |
+| Total Trips Analyzed  |                                                          **5.68M** |
+| Annual Member Trips   |                                                          **3.67M** |
+| Casual Rider Trips    |                                                          **2.01M** |
+| Average Ride Duration |                     **19.6 min (Casual)** vs **12.3 min (Member)** |
+| Main Outcome          | **4 data-driven recommendations to support membership conversion** |
 
 # Business Task
 
